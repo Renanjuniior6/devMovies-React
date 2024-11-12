@@ -51,6 +51,7 @@
 ![Tela de detalhes série DevMovies](https://github.com/Renanjuniior6/DevMovies-React/assets/106713211/27609e0d-f8bb-4caa-9aa7-cbf73047531f)
 
 ## 📲 [Link Demonstração](https://dev-m-ovie.netlify.app/)
+## 📲 [Vídeo Demonstração](https://www.linkedin.com/feed/update/urn:li:activity:7082920685840310272/)
 
 ## 💻 Tecnologias utilizadas 
 - [React]()
